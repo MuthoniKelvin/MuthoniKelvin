@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muthoni Kelvin
-- 👀 I’m interested in ...python
-- 🌱 I’m currently learning ...python django
+- 👀 I’m interested in ...Javascrpt
+- 🌱 I’m currently learning ...MERN stack
 
 
 <!---
